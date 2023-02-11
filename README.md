@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nishitsuthar07" target="blank"><img align="center" src="https://i.ibb.co/bNThWz1/twitter.png" alt="nishitsuthar07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nishit-suthar-a238991a0" target="blank"><img align="center" src="https://i.ibb.co/GtxbZ7M/linkedin.png" alt="nishit-suthar-a238991a0" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14449937" target="blank"><img align="center" src="https://i.ibb.co/1sCZRFZ/so.png" alt="14449937" height="30" width="40" /></a>
+<a href="https://twitter.com/nishitsuthar07" target="blank"><img align="center" src="https://i.ibb.co/bNThWz1/twitter.png" alt="nishitsuthar07" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/nishit-suthar-a238991a0" target="blank"><img align="center" src="https://i.ibb.co/GtxbZ7M/linkedin.png" alt="nishit-suthar-a238991a0" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/14449937" target="blank"><img align="center" src="https://i.ibb.co/1sCZRFZ/so.png" alt="14449937" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://medium.com/@nishitsuthar123" target="blank"><img align="center" src="https://i.ibb.co/TYdNWzm/medium.png" alt="@nishitsuthar123" height="30" width="40" /></a>
 </p>
 

@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nishit</h1>
 <h3 align="center">Certified Salesforce Developer</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Nishitsuthar/Nishitsuthar/main/dark.gif" >
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Nishitsuthar/Nishitsuthar/main/white.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishitsuthar&label=Profile%20views&color=0e75b6&style=flat" alt="nishitsuthar" /> </p>
 

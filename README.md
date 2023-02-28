@@ -1,4 +1,4 @@
-![MasterHead](https://scontent.famd4-1.fna.fbcdn.net/v/t39.30808-6/300372352_477721384359172_7739651769469270594_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=uu7sBdVcWoIAX_JXZRy&_nc_oc=AQnrOCCfnWzvfnCUDMZHKRauqpyWKxib2kTirE5TaQjWYp4UlHCeFsfGyQJmBWMzek8&_nc_ht=scontent.famd4-1.fna&oh=00_AfDqEt3xiz1OUi6Et2yjNTgWr5syNU9ZxzqmjWSzjtneJg&oe=63EC7172)
+![MasterHead](https://edge.mwallpapers.com/photos/3d-abstract/abstract/anime-minimalist-wallpaper-ultra-wide-android-iphone-hd-wallpaper-background-downloadhd-wallpapers-desktop-background-android-iphone-1080p-4k-wibfh.jpg)
 
 <h1 align="center">Hi 👋, I'm Nishit</h1>
 <h3 align="center">Certified Salesforce Developer</h3>

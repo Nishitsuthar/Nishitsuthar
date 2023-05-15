@@ -1,14 +1,12 @@
 ![MasterHead](https://edge.mwallpapers.com/photos/3d-abstract/abstract/anime-minimalist-wallpaper-ultra-wide-android-iphone-hd-wallpaper-background-downloadhd-wallpapers-desktop-background-android-iphone-1080p-4k-wibfh.jpg)
 
 <h1 align="center">Hi 👋, I'm Nishit</h1>
-<h3 align="center">Certified Salesforce Developer</h3>
+<h3 align="center">2x Salesforce Certified Developer</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Nishitsuthar/Nishitsuthar/main/white.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishitsuthar&label=Profile%20views&color=0e75b6&style=flat" alt="nishitsuthar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nishitsuthar07" target="blank"><img src="https://img.shields.io/twitter/follow/nishitsuthar07?logo=twitter&style=for-the-badge" alt="nishitsuthar07" /></a> </p>
-
-- 🌱 I’m currently learning **Lua**
 
 - 📝 I write articles on [Medium](https://medium.com/@nishitsuthar123)
 

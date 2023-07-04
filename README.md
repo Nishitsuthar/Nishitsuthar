@@ -1,4 +1,4 @@
-![MasterHead](https://edge.mwallpapers.com/photos/3d-abstract/abstract/anime-minimalist-wallpaper-ultra-wide-android-iphone-hd-wallpaper-background-downloadhd-wallpapers-desktop-background-android-iphone-1080p-4k-wibfh.jpg)
+![MasterHead](https://img.freepik.com/premium-vector/game-developer-typographic-header_277904-9142.jpg?w=1800)
 
 <h1 align="center">Hi 👋, I'm Nishit</h1>
 <h3 align="center">2x Salesforce Certified Developer</h3>
